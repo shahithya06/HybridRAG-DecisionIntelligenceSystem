@@ -227,4 +227,5 @@ Semantic search
 
 LLM-driven insight synthesis
 
+
 Built entirely in VSCode using Python, Neo4j, Chroma, and Groq.
