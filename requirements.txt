@@ -1,0 +1,9 @@
+streamlit 
+neo4j 
+chromadb 
+langchain 
+langchain-community 
+langchain-text-splitters 
+groq 
+python-dotenv 
+sentence-transformers
